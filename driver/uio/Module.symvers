@@ -1,0 +1,3 @@
+0x2d03514d	uio_event_notify	/home/dpak/opc-pkt/driver/uio/uio	EXPORT_SYMBOL_GPL
+0xa50b574e	uio_unregister_device	/home/dpak/opc-pkt/driver/uio/uio	EXPORT_SYMBOL_GPL
+0x29c147c1	__uio_register_device	/home/dpak/opc-pkt/driver/uio/uio	EXPORT_SYMBOL_GPL

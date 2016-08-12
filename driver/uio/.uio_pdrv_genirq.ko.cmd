@@ -1,0 +1,1 @@
+cmd_/home/dpak/opc-pkt/driver/uio/uio_pdrv_genirq.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-92-generic/scripts/module-common.lds --build-id  -o /home/dpak/opc-pkt/driver/uio/uio_pdrv_genirq.ko /home/dpak/opc-pkt/driver/uio/uio_pdrv_genirq.o /home/dpak/opc-pkt/driver/uio/uio_pdrv_genirq.mod.o

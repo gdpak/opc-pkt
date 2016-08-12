@@ -1,0 +1,9 @@
+kernel//home/dpak/opc-pkt/driver/uio/uio.ko
+kernel//home/dpak/opc-pkt/driver/uio/uio_cif.ko
+kernel//home/dpak/opc-pkt/driver/uio/uio_pdrv_genirq.ko
+kernel//home/dpak/opc-pkt/driver/uio/uio_dmem_genirq.ko
+kernel//home/dpak/opc-pkt/driver/uio/uio_aec.ko
+kernel//home/dpak/opc-pkt/driver/uio/uio_sercos3.ko
+kernel//home/dpak/opc-pkt/driver/uio/uio_pci_generic.ko
+kernel//home/dpak/opc-pkt/driver/uio/uio_netx.ko
+kernel//home/dpak/opc-pkt/driver/uio/uio_mf624.ko
